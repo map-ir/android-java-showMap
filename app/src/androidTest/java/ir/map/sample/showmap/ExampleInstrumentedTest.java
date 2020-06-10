@@ -1,4 +1,4 @@
-package ir.map.sample.shwomap;
+package ir.map.sample.showmap;
 
 import android.content.Context;
 
